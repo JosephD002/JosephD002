@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**JosephD002/JosephD002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Joseph Diaz!👋
 
-Here are some ideas to get you started:
+I am a web developer passionate about learning and continuous improvement. Here you will find my projects and work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+
+
+I am a front-end developer with over 3 years of experience serving clients. Based in Caracas, I have been self-learning and taking courses like Coderhouse for the past year. I excel at problem-solving and am quick to adapt to new challenges. Ready to contribute to any project!
+## 🛠 Skills
+Frontend:
+
+- Javascript(Intermediate)
+- React.js(Intermediate)
+
+Backend:
+
+- Node.js(Beginner)
+- Python(Basics)
+
+Certification:
+
+- CoderHouse: Javascript(2023)
+- CoderHouse: React.js(2024)
+
+Interests:
+
+-The rapid progress in technology, particularly in the field of artificial intelligence.
+
+Future goals
+-
+- To have a full-stack understanding.
+- To acquire the programming skills required for artificial intelligence.
